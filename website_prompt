@@ -1,0 +1,39 @@
+Prompt for Creating a Professional Website:
+
+(Copy from below)
+I need you to create a professional, modern, and visually appealing website. Please follow these guidelines:
+Design Requirements:
+
+Use a clean, contemporary design with a professional color scheme that's easy on the eyes
+Ensure the layout is fully responsive and looks great on desktop, tablet, and mobile devices
+Include smooth scrolling, subtle animations, and modern UI elements
+Use a readable, professional font combination (consider pairing a sans-serif for headings with a clean body font)
+Maintain consistent spacing, alignment, and visual hierarchy throughout
+
+Structure:
+
+Create a clear navigation menu that's easy to use
+Include these key sections: Hero/Landing section, About, Services/Features, Testimonials/Portfolio (if applicable), Contact
+Add a professional footer with relevant links and information
+Ensure all sections flow logically and guide visitors through the content
+
+Technical Requirements:
+
+Write clean, semantic HTML5
+Use modern CSS3 with flexbox/grid for layouts
+Make it interactive with smooth JavaScript effects where appropriate
+Optimize for fast loading times
+Ensure accessibility standards are met
+Make the code well-commented and easy to modify later
+
+(Copy till here)
+
+Content Placeholders:
+
+Include placeholder text and images that I can easily replace with my actual content
+Make headings, descriptions, and calls-to-action clear and compelling
+Add contact form fields that are functional
+
+Overall Goal:
+The website should look like it was designed by a professional agency - polished, trustworthy, and effective at converting visitors into customers/contacts.
+[Add any specific details about your business, preferred colors, industry, or special features you need]
